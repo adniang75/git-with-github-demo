@@ -6,3 +6,4 @@ Disallow:
 # This line has been added. to demonstrate the usage of "git pull" command
 # This line has been added to demonstrate the usage of "git push" command
 # this line has been added to demonstrate the usage of SSH protocol
+# this line has been added to test the support of Brackets as a text editor
